@@ -13,7 +13,7 @@ main:
   - title: Multi-Stage LLM Fine-Tuning with a Continual Learning Setting
     authors: Changhao Guan, Chao Huang, Hongliang Li, You Li, Ning Cheng, Zihe Liu, Yufeng Chen, Jinan Xu, Jian Liu
     conference_short: NAACL 2025
-    conference: Findings of the Association for Computational Linguistics: NAACL 2025.
+    conference: Findings of the Association for Computational Linguistics, NAACL 2025.
     pdf: https://aclanthology.org/2025.findings-naacl.303.pdf
     code: https://github.com/jingtian11/Multi-Stage-Learning
     bibtex: https://github.com/jingtian11/Multi-Stage-Learning
