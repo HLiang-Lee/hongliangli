@@ -10,7 +10,6 @@ main:
     image: ./assets/img/teaser_1.png
     notes: Preprint
 
-
   - title: Multi-Stage LLM Fine-Tuning with a Continual Learning Setting
     authors: Changhao Guan, Chao Huang, Hongliang Li, You Li, Ning Cheng, Zihe Liu, Yufeng Chen, Jinan Xu, Jian Liu
     conference_short: NAACL 2025
