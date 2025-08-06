@@ -20,7 +20,7 @@ main:
     image: ./assets/img/teaser_2.png
     notes: Accept
 
-  - title: A survey on large language models with multilingualism: Recent advances and new frontiers
+  - title: A survey on large language models with multilingualism:Recent advances and new frontiers
     authors: Kaiyu Huang, Fengran Mo, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu
     conference_short: arXiv
     conference: arXiv preprint arXiv:2405.10936
