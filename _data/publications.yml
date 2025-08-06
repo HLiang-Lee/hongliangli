@@ -2,7 +2,7 @@ main:
 
   - title: Multilingual Collaborative Defense for Large Language Models
     authors: Hongliang Li*, Jinan Xu*, Gengping Cui, Changhao Guan, Fengran Mo, Kaiyu Huang
-    conference_short: arxiv
+    conference_short: arXiv
     conference: arXiv preprint arXivL2505.11835
     pdf: https://arxiv.org/pdf/2505.11835.pdf
     code: https://github.com/HLiang-Lee/MCD
@@ -18,5 +18,25 @@ main:
     code: https://github.com/jingtian11/Multi-Stage-Learning
     bibtex: https://github.com/jingtian11/Multi-Stage-Learning
     image: ./assets/img/teaser_2.png
+    notes: Accept
+
+  - title: A survey on large language models with multilingualism: Recent advances and new frontiers
+    authors: Kaiyu Huang, Fengran Mo, Xinyu Zhang, Hongliang Li, You Li, Yuanchi Zhang, Weijian Yi, Yulong Mao, Jinchen Liu, Yuzhuang Xu, Jinan Xu, Jian-Yun Nie, Yang Liu
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2405.10936
+    pdf: https://arxiv.org/pdf/2405.10936.pdf
+    code: https://github.com/kaiyuhwang/MLLM-Survey
+    bibtex: https://arxiv.org/src/2405.10936
+    image: ./assets/img/teaser_3.png
+    notes: Preprint
+
+  - title: Novel slot detection with an incremental setting
+    authors: Chen Liang*, Hongliang Li*, Changhao Guan*, Qingbin Liu, Jian Liu, Jinan Xu, Zhe Zhao
+    conference_short: EMNLP 2023
+    conference: Findings of the Association for Computational Linguistics, EMNLP 2023
+    pdf: https://aclanthology.org/2023.findings-emnlp.53.pdf
+    code: https://github.com/cs-liangchen-work/NovelIE
+    bibtex: https://aclanthology.org/2023.findings-emnlp.53.pdf
+    image: ./assets/img/teaser_4.png
     notes: Accept
 
