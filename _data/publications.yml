@@ -1,14 +1,14 @@
 main:
 
   - title: Multilingual Collaborative Defense for Large Language Models
-    authors: <strong>Hongliang Li*</strong>, Jinan Xu*, Gengping Cui, Changhao Guan, Fengran Mo, Kaiyu Huang
-    conference_short: arXiv
-    conference: arXiv preprint arXivL2505.11835
+    authors: <strong>Hongliang Li</strong>, Jinan Xu, Gengping Cui, Changhao Guan, Fengran Mo, Kaiyu Huang
+    conference_short: EMNLP 2025
+    conference: Findings of the Association for Computational Linguistics, EMNLP 2025.
     pdf: https://arxiv.org/pdf/2505.11835.pdf
     code: https://github.com/HLiang-Lee/MCD
     bibtex: https://arxiv.org/src/2505.11835
     image: ./assets/img/teaser_1.png
-    notes: Preprint
+    notes: Accept
 
   - title: Multi-Stage LLM Fine-Tuning with a Continual Learning Setting
     authors: Changhao Guan, Chao Huang, <strong>Hongliang Li</strong>, You Li, Ning Cheng, Zihe Liu, Yufeng Chen, Jinan Xu, Jian Liu
